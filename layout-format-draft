@@ -1,0 +1,19 @@
+THIS DOCUMENT SERVES AT THE FORMAT TO FOLLOW FOR EACH NEW KATA PROBLEM THAT IS UPLOAD FOR COHESIVENESS: 
+
+// LINK: 
+- here goes a link to the problem on codewars.com
+
+
+// INSTRUCTIONS: 
+here put in a copy of the instructions to the problem in the respective language of the current repository 
+ i.e. Java or Javascript 
+ - make sure to comment out this entire section before submitting final details 
+ 
+
+//MY SOLUTION: 
+- this area is your solution withinline comments 
+
+
+
+// SAMPLE TESTING: 
+- copy and paste into this section the sample testing from the problem 
